@@ -11,7 +11,7 @@ This account marks a fresh start with cleaner structure, clearer focus, and newe
 
 Most of my **earlier work, repositories, and contributions** are available on my previous GitHub account:
 
-👉 **Old account:** [https://github.com/USERNAME_CU](https://github.com/NahwngLe)
+👉 **Old account:** [https://github.com/NahwngLe](https://github.com/NahwngLe)
 
 > This account is a **continuation / reference** of the old one.
 
@@ -38,8 +38,8 @@ Most of my **earlier work, repositories, and contributions** are available on my
 
 ## 📫 Contact
 
-- GitHub (old): [https://github.com/USERNAME_CU](https://github.com/NahwngLe)
-- GitHub (new): [https://github.com/USERNAME_MOI](https://github.com/nhanlequy12)
+- GitHub (old): [https://github.com/NahwngLe](https://github.com/NahwngLe)
+- GitHub (new): [https://github.com/nhanlequy12](https://github.com/nhanlequy12)
 
 Thanks for stopping by! ⭐  
 Feel free to explore or follow my work.
